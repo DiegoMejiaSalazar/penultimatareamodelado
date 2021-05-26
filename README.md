@@ -101,6 +101,15 @@ Por ultimo se hizo un filtro adicional para que solo se reconozcan dígitos y si
 
 ![image](https://user-images.githubusercontent.com/80376417/119606159-0a5a6980-bdc0-11eb-8795-c26e88873f04.png)
 
+A continuacion se hara la demostracion de esta validacion con la siguiente imagen en la que el numero 4 no es procesada debido a ser demasiado alta:
+
+![image](https://user-images.githubusercontent.com/80376417/119607320-1ba47580-bdc2-11eb-8d95-f52c1f7c1ab8.png)
+
+y el resultado obtenido fue:
+
+![Captura de pantalla (117)](https://user-images.githubusercontent.com/80376417/119607446-57d7d600-bdc2-11eb-98da-4ec60fa1a05b.png)
+
+
 #### Nota: Los datasets para hacer el reconocimiento de los signos de adicion y substraccion se encuentra en la carpeta substractionset y plusdataset
 
 # Conclusion
