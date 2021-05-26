@@ -103,7 +103,8 @@ Por ultimo se hizo un filtro adicional para que solo se reconozcan dígitos y si
 
 A continuacion se hara la demostracion de esta validacion con la siguiente imagen en la que el numero 4 no es procesada debido a ser demasiado alta:
 
-![image](https://user-images.githubusercontent.com/80376417/119607320-1ba47580-bdc2-11eb-8d95-f52c1f7c1ab8.png)
+![Captura de pantalla (116)](https://user-images.githubusercontent.com/80376417/119607534-848bed80-bdc2-11eb-96ea-aafa2c8b69df.png)
+
 
 y el resultado obtenido fue:
 
